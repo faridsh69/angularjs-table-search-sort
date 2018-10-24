@@ -6,3 +6,4 @@
 3 dokme hazf    OK
 4 dokme hazfe kolli   OK
 5 tik bezani hame checkbox ha tik bokhore OK
+Language: javascript
